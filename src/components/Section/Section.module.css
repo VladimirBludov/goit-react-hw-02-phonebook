@@ -1,0 +1,10 @@
+.wrapper {
+  width: 300px;
+  margin: 30px auto 0;
+}
+
+.title {
+  color: blueviolet;
+  font-size: 24px;
+  margin-bottom: 15px;
+}

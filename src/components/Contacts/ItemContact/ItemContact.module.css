@@ -1,0 +1,27 @@
+.item {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+}
+
+.item:not(:last-child) {
+  margin-bottom: 5px;
+}
+
+.index {
+  margin-right: 5px;
+}
+
+.name {
+  margin-right: 5px;
+}
+
+.button {
+  border: none;
+  margin-left: auto;
+  padding: 5px;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #fff;
+  background-color: red;
+}
